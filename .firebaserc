@@ -2,7 +2,8 @@
   "projects": {
     "default": "shoppingoline-94403",
     "y": "shoppingoline-94403",
-    "Tech_Shopping": "shoppingoline-94403"
+    "Tech_Shopping": "shoppingoline-94403",
+    "firebase use Tech_Shopping": "techshopping-c6f50"
   },
   "targets": {},
   "etags": {}

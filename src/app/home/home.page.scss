@@ -1,0 +1,17 @@
+/* Dans votre fichier CSS */
+.glass-button {
+  background-color: rgba(255, 255, 255, 0.2); /* Couleur de fond en verre */
+  border: 1px solid #0c225f; /* Bordure solide de couleur rouge (#c52e2e) */
+  color: hsla(0, 78%, 5%, 0.8); /* Couleur du texte en verre */
+  padding: 5px 10px; /* Marge intérieure pour le bouton */
+  font-weight: bold; /* Texte en gras */
+  border-radius: 5px; /* Coins arrondis */
+  cursor: pointer; /* Curseur pointeur au survol */
+  transition: background-color 0.3s; /* Transition de couleur de fond */
+}
+
+  
+  .glass-button:hover {
+    background-color: rgba(255, 255, 255, 0.3); /* Couleur de fond en verre au survol */
+  }
+  
